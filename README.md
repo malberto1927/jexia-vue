@@ -1,4 +1,7 @@
-# jexia-ejemplo
+# jexia-vue
+
+##Description
+Application in VueJs for testing a CRUD in [Jexia](https://www.jexia.com/en/)
 
 ## Project setup
 ```
